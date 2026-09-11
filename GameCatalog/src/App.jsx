@@ -40,7 +40,6 @@ export default function App() {
     <div style={appStyle}>
       <header style={headerStyle}>
         <h1 style={{ color: '#bb86fc', margin: 0 }}>🎮 GameCatalog</h1>
-        <p style={{ color: '#aaa', marginTop: '6px' }}>Catálogo em Tema Escuro (Dark Mode)</p>
       </header>
       
       <main>
